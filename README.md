@@ -37,6 +37,9 @@
 
 - Clonar el repositorio en la ubicación deseada, usando el comando: git clone https://github.com/BrayantGb/Asesoftware-Automation
 
+<h2>Evidencia de ejecución</h2>
+- En la carpeta raiz se encuentra un directorio llamado Video allí hay un archivo llamado "EjecucionWebCiencuadras.mp4" el cual evidencia la ejecución de la automatización.
+
 <h2>Pasos para ejecutar el proyecto</h2>
 
 - Se debe primero realizar los pasos de la sección "Pasos para obtener el proyecto de automation"
